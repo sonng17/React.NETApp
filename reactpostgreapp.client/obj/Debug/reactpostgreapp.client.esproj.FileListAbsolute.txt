@@ -1,0 +1,2 @@
+C:\Users\Son\Desktop\project\VS2022\ReactPostgreApp\reactpostgreapp.client\obj\Debug\reactpostgreapp.client.esproj.CoreCompileInputs.cache
+C:\Users\Son\Desktop\project\VS2022\ReactASPPostgreApp\reactpostgreapp.client\obj\Debug\reactpostgreapp.client.esproj.CoreCompileInputs.cache

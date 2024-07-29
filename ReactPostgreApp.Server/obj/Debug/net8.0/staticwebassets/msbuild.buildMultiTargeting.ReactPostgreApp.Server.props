@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ReactPostgreApp.Server.props" />
+</Project>
